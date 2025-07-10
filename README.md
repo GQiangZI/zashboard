@@ -9,9 +9,9 @@
 
 Browser support
 
-- Chrome 111 (released March 2023)
-- Firefox 128 (released July 2024)
-- Safari 16.4 (released March 2023)
+- Chrome 111 (released2023年3月)
+- Firefox 128 (released2024年7月)
+- Safari 16.4 (released2023年3月)
 - Not supported on iOS 16.4 jailbroken version.
 
 ## **Online**
@@ -23,7 +23,7 @@ You can access the online zashboard at the following link:
 ## **Download**
 
 For **Mihomo** users:
-The **Upgrade Dashboard** function utilizes the API from Mihomo core. Ensure you set the [configuration URL](https://wiki.metacubex.one/config/general/#_9) to the zashboard's URL.
+该 **Upgrade Dashboard** function utilizes the API from Mihomo core. Ensure you set the [configuration URL](https://wiki.metacubex.one/config/general/#_9) to the zashboard's URL.
 
 You can download the zashboard files here:
 
